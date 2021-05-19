@@ -1,0 +1,2 @@
+This file is created on Master and it is file2.txt
+
